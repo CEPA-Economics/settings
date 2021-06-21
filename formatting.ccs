@@ -1,0 +1,50 @@
+<style>
+
+hr {
+    border-top: 1px solid #002776;
+    margin: 2px 0 2px 0
+}
+
+h1 {
+    font-family: "Rockwell Nova";
+    font-weight: bold !important;
+    color: #002776;
+    text-transform: uppercase;
+    font-size: 25pt !important;
+    line-height: 1.2 !important!
+}
+
+h2 {
+    font-family: "Rockwell Nova";
+    font-weight: bold !important;
+    color: #002776;
+    font-size: 14pt !important;
+}
+
+h3 {
+    font-family: "Rockwell Nova";
+    font-weight: bold !important;
+    color: #002776;
+    font-size: 12pt !important;
+}
+
+h4 {
+    font-family: "Arial Nova";
+    font-weight: bold !important;
+    font-size: 12pt !important;
+    color: #002776;
+}
+
+h5 {
+    font-family: "Arial Nova";
+    font-weight: bold !important;
+    font-size: 11pt !important;
+}
+
+th {
+    background-color: #002776;
+    color: white;
+    font-family: "Arial Nova";
+    }
+
+</style>
